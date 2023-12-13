@@ -1,4 +1,4 @@
-def add(a,b):
-  print(a+b)
+def add(a):
+  print(a)
 
-add(5,10)
+add(5)
