@@ -2,6 +2,6 @@ from run import *
 
 def test_add():
   if add(2) == 5:
-    print("true")
+    return False
   else:
-    print("false")
+    return True
